@@ -1,5 +1,5 @@
 <?php
-namespace MuriloAmaral\Sample\Controller\Index;
+namespace MuriloAmaral\Magento2Module\Controller\Index;
 
 use Magento\Framework\App\Action\Action;
 

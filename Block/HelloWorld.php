@@ -1,5 +1,5 @@
 <?php
-namespace MuriloAmaral\Sample\Block;
+namespace MuriloAmaral\Magento2Module\Block;
 
 use Magento\Framework\View\Element\Template;
 
